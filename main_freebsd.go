@@ -1,3 +1,3 @@
 package main
 
-const setFacl = "/bin/setfacl"
+const setFaclBin = "/bin/setfacl"

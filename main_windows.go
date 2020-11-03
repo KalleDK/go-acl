@@ -1,3 +1,3 @@
 package main
 
-const setFacl = "flaf.exe"
+const setFaclBin = "flaf.exe"
